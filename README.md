@@ -30,7 +30,7 @@ be tedious to go through the steps to first create the student and then go
 through the same steps again and again to create each of that student's courses.
 Wouldn't it be nice to create the student **and** their courses in one go?
 
-## The Models
+## The Models What.
 
 To create these two different classes of objects, we need to create two models,
 `Student` and `Course`.
